@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityarai300adi&label=Profile%20views&color=0e75b6&style=flat" alt="agam118" /> </p>
 
 - 👀 I’m interested in *Data Analytics and Data Science*
-- 🌱 I’m currently learning *python for data science*
+- 🌱 I’m currently learning *python for data science *
 - 📫 Let's connect *adityasinghnergkp@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
