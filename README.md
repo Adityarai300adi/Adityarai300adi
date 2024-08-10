@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-singh-b87084296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-singh-b87084296" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/adityasinghnerg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityasinghnerg1" height="30" width="40" /></a>
+<a href="https://leetcode.com/submissions/#/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityasinghnerg1" height="30" width="40" /></a>
 </p>
 <!---
 Agam118/Agam118 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
